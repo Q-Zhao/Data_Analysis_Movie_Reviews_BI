@@ -1,5 +1,5 @@
 # Analysis of MovieLen Data
-Label: Data Analysis, Movie Review
+Label: Data Analysis, Movie Review, Business Intelligence
 
 ##Brief Description
 
